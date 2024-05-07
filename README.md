@@ -7,7 +7,7 @@ This is open source, you can use it!
     Index.html
   </td>
     <td>
-    Informations by login
+    Login Information
   </td>
 </table>
 <table>
@@ -15,7 +15,7 @@ This is open source, you can use it!
     register.html
   </td>
     <td>
-    Informations by Register
+    Register Information
   </td>
 </table>
 <table>
@@ -23,7 +23,7 @@ This is open source, you can use it!
     main.css
   </td>
     <td>
-    Informations by CSS all pages
+   CSS Information by all pages
   </td>
 </table>
 
