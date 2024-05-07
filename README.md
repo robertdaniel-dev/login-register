@@ -3,14 +3,27 @@
 This is open source, you can use it!
 
 <table>
-  <tr>
-    Is
-  </tr>
   <td>
     Index.html
   </td>
     <td>
     Informations by login
+  </td>
+</table>
+<table>
+  <td>
+    register.html
+  </td>
+    <td>
+    Informations by Register
+  </td>
+</table>
+<table>
+  <td>
+    main.css
+  </td>
+    <td>
+    Informations by CSS all pages
   </td>
 </table>
 
