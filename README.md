@@ -23,7 +23,7 @@ This is open source, you can use it!
     main.css
   </td>
     <td>
-   CSS Information by all pages
+  Information CSS by all pages
   </td>
 </table>
 
